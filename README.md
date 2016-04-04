@@ -7,4 +7,8 @@ The schemtic of connection (you can also open file WebMonitoringSystem.fzz in th
 The testimony wich see the client:
 ![alt tag](http://fs5.directupload.net/images/160327/2d9yazir.jpg)
 
+Сообщество ВКонтакте: https://vk.com/techmodepublic
+
+YouTube-канал: https://www.youtube.com/TechMode
+
 Video demonstration will bee added soon
